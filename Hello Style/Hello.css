@@ -2,5 +2,5 @@ div{
     text-align: center;
 background-color: aqua;
 margin: 12;
-
+border: 2px solid aqua;
 }
